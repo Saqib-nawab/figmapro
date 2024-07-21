@@ -1,0 +1,16 @@
+# Dependencies
+node_modules
+
+# Production
+build
+
+# Miscellaneous
+.DS_Store
+.env
+
+# Logs
+logs
+*.log
+
+# Ignore assets directory in src
+public/assets/
